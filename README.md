@@ -17,7 +17,7 @@ This project demonstrates basic image encryption and decryption using XOR bitwis
 - The same process is repeated for decryption, using the same key to retrieve the original image.
   
 ## Example Process
-- Input Image: You specify the path to an image file (e.g., example.jpg).
+- Input Image: You specify the path to an image file (e.g., Mohanlal_Viswanathan_BNC.jpg).
 - Encryption: The image is encrypted using the XOR operation with the given key, and the encrypted image is saved (e.g., encrypted_image.png).
 - Decryption: The encrypted image is decrypted using the same key, and the decrypted image is saved (e.g., decrypted_image.png).
 
